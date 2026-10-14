@@ -1,0 +1,7 @@
+Alice 40
+Bob 20
+Charlie 10
+Player 1 10
+David 0
+Emma -10
+Player 2 -10
